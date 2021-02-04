@@ -8,12 +8,12 @@ Credit Card Fraud Transaction Detection is one of the most famous financial Data
 3. Preprocessing of data as required.
 4. Exploratory Data Analysis (EDA) to extract features from the dataset.
 5. Training of imbalanced dataset using four machine learning classification algorithms and evaluate the trained model using evaluation metrics.
-6. As the dataset was imbalanced, so resample the data using SMOTE technique for better accuracy.
+6. As the dataset was imbalanced, so I resample the data using SMOTE technique for better accuracy.
 7. Evaluating the trained model using evaluation metrics.
 
 ### About the Data
 
-The dataset used in this problem is taken from Kaggle. The dataset consists of features as V1, V2, V3,....., V28 which are principal components obtained by PCA (Principal Component Analysis), the feature "Amount" that contains the total money being transacted and the feature "Class" that contains the labels of fraud or non-fraud trancactions in the form of "1" or"0" respectively.
+The dataset used in this problem is taken from Kaggle. The dataset consists of features as V1, V2, V3,....., V28 which are principal components obtained by PCA (Principal Component Analysis), Apart from this the remaning features are "Amount" that contains the total money being transacted and the feature "Class" that contains the labels of fraud or non-fraud trancactions in the form of "1" or "0" respectively.
 
 ### Data Modeling
 
