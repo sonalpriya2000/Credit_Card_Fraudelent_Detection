@@ -17,7 +17,7 @@ The dataset used in this problem is taken from Kaggle. The dataset consists of f
 
 ### Data Modeling
 
-Model is trained before and after resampling of data using four classification algorithms namely Logistic Regression, Random Forest Classifier, K-Nearest Neighbor(KNN) and Decision Tree Classifier . With these algorithms, the models are trained successfully and evaluate each of the model to find the most suitable model for this problem.
+Model is trained before and after resampling of data using four classification algorithms namely Logistic Regression, Random Forest Classifier, K-Nearest Neighbor(KNN) and Decision Tree Classifier. With these algorithms, the models are trained successfully and evaluate each of the model to find the most suitable model for this problem.
 
 From this, I consider that Random Forest classifier is one of the most suitable model as it gives accuracy of about 99.8% among all the classification algorithms.
  
