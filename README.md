@@ -13,7 +13,7 @@ Credit Card Fraud Transaction Detection is one of the most famous financial Data
 
 ### About the Data
 
-The dataset used in this problem is taken from Kaggle. The dataset consists of features as V1, V2, V3,....., V28 which are principal components obtained by PCA (Principal Component Analysis), the feature "Amount" that contains the total money being transacted and the feature "Class" that contains the labels of fraud or non-fraud trancactions in the form of "1" or"0" respectuvely.
+The dataset used in this problem is taken from Kaggle. The dataset consists of features as V1, V2, V3,....., V28 which are principal components obtained by PCA (Principal Component Analysis), the feature "Amount" that contains the total money being transacted and the feature "Class" that contains the labels of fraud or non-fraud trancactions in the form of "1" or"0" respectively.
 
 ### Data Modeling
 
